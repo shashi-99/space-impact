@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* body{
+    
+} */
+
+#myCanvas{
+    background-color: black;
+    width: 80%;
+    margin: 5% 10%;
+}
